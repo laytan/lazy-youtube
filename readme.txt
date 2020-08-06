@@ -1,5 +1,4 @@
-# Lazy youtube
-
+=== Lazy youtube ===
 - Contributors: laytanl
 - Requires at least: 5.0
 - Tested up to: 5.4
@@ -11,8 +10,7 @@
 A gutenberg Youtube embed block that only loads Youtube assets when the user needs them.
 
 
-## Installation
-
+== Installation ==
 1. Put the lazy-youtube folder into the plugins directory of your Wordpress installation.
 2. Go to your admin panel and click activate plugin.
 
@@ -23,11 +21,10 @@ or
 3. Click install plugin
 4. Click activate plugin
 
-## Frequently Asked Questions
-
+== Frequently Asked Questions ==
 No FAQ
 
-## Changelog
+== Changelog ==
 
 1.0.0
 Released

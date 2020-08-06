@@ -13,8 +13,8 @@
  * Version:     1.0.0
  * Author:      Laytan Laats
  * Author URI:  https://github.com/laytan
- * License:     GPL-2.0+
- * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+ * License:     GNU GENERAL PUBLIC LICENSE
+ * License URI: LICENSE.txt
  * Text Domain: lazy-youtube
  * Domain Path: /languages
  */
