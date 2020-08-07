@@ -24,9 +24,6 @@ or
 == Frequently Asked Questions ==
 No FAQ
 
-== Credits ==
-Location Icon made by Freepik(https://www.flaticon.com/authors/freepik) from https://www.flaticon.com/
-
 == Changelog ==
 
 1.0.0
