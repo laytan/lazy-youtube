@@ -10,7 +10,6 @@
 
 A gutenberg Youtube embed block that only loads Youtube assets when the user needs them.
 
-
 ## Installation
 
 1. Put the lazy-youtube folder into the plugins directory of your Wordpress installation.
@@ -26,6 +25,10 @@ or
 ## Frequently Asked Questions
 
 No FAQ
+
+## Credits
+
+Location Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)
 
 ## Changelog
 
